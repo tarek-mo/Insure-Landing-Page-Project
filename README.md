@@ -2,6 +2,8 @@
 
 ## Responsive Landing Page using pure HTML CSS JAVASCRIPT
 
+## Live URL:
+  https://tarekslandingpagedemo.netlify.app
 
 ## Tools Used:
 
