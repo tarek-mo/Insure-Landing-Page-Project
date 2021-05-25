@@ -1,6 +1,8 @@
-(() => {
             // Animate On Scroll
     AOS.init();
+
+(() => {
+
 
             // Hamburger Menu
     const hamburgers = document.querySelectorAll('.hamburger');
